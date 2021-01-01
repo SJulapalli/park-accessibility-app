@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 import Accessibility from './Accessibility';
 import Editor from './Editor';
-import Adder from './Adder';
 import MapView from 'react-native-maps'
 import { View, Button, Text, TouchableOpacity } from 'react-native'
 import { NavigationContainer } from '@react-navigation/native'
