@@ -10,4 +10,4 @@ The Accessibility Information Screen will provide you with information about the
 
 On this page, you can add/edit information present in the database. Any edits can be seen once the Accessiblity Information Screen is updated, and prior information/newly added information will be visible on the Edit screen itself.
 ![Edit Screen](edit_info.PNG)
-![Updated Info Screen](updated_info_page.PNG)
+![Updated Info Screen](update_info_page.PNG)
